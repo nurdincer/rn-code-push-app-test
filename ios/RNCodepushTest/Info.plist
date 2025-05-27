@@ -23,9 +23,9 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CodePushDeploymentKey</key>
-	<string>dk_iQUvNXP2oyhEV8MaRD-ITfziPt9Cfd26d9e3-a0d5-4862-96c0-beb5b7d058ff</string>
+	<string>dk_q91WNbEcWZ4hBj8UgI7C8TtHQpPq6792300d-d1da-494c-bdcd-2a840c0418ec</string>
 	<key>CodePushServerURL</key>
-	<string>https://dev-api.appcircle.io/codepush</string>
+	<string>https://api.appcircle.io/codepush</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
