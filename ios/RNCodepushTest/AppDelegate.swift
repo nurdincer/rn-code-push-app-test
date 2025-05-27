@@ -1,6 +1,7 @@
 import UIKit
 import React
 import React_RCTAppDelegate
+import CodePush/CodePush.h
 
 @main
 class AppDelegate: RCTAppDelegate {
