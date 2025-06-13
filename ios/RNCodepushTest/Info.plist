@@ -25,7 +25,7 @@
 	<key>CodePushDeploymentKey</key>
 	<string>dk_EF_8zzTYMLLkQOV1FkoZvvbNbeHSab32e8a2-8b8e-41ed-9279-4a16b31b33f7</string>
 	<key>CodePushServerURL</key>
-	<string>https://prep-api.appcircle.io/codepush</string>
+	<string>https://dev-api.appcircle.io/codepush</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
