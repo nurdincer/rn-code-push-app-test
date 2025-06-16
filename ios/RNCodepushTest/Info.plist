@@ -26,6 +26,16 @@
 	<string>dk_iTN00wbmK3-cY-MYUWIzDHyQvRUX6792300d-d1da-494c-bdcd-2a840c0418ec</string>
 	<key>CodePushServerURL</key>
 	<string>https://api.appcircle.io/codepush</string>
+	<key>CodePushPublicKey</key>
+    <string>-----BEGIN PUBLIC KEY-----
+	MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9oS+tNrsB97sAmCjKSb2
+	Dm72z/LxdQOSst35Mil8jivC/TuKixl++6oijmR9mUn3ayK2mdiLydYE3rfrdvf1
+	NgFm8oXMFEDr5Sw0dAITW81iCbCjwyF09S9KRRZGVV3Cd4n/XOKg3UaWdhF3fu9Y
+	nPQz86Q0wJlxtcktk/CpovQKt+OOEQiRURnrYx7Ko4WYbhLyomonbcN13uVV27Uc
+	0cSH8zkuTq4ZyztiNwI5Bi4Kgm/e/+T+Sbr4GGBzyGn2UEeaCyXPt+Sfe8Ut94MI
+	TFGsmQGpDlUzvY/cvqcC9IcZSgpko8g/FdfIclhIt7ePZjJVg94PFc0hCx0icqAN
+	/QIDAQAB
+	-----END PUBLIC KEY-----</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
