@@ -1,4 +1,4 @@
-package com.rncodepushtest
+package com.rncodepushtest.staging
 
 import android.app.Application
 import com.facebook.react.PackageList
@@ -12,6 +12,7 @@ import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.react.soloader.OpenSourceMergedSoMapping
 import com.facebook.soloader.SoLoader
 import com.facebook.react.common.annotations.UnstableReactNativeAPI 
+import com.microsoft.codepush.react.CodePush
 
 @OptIn(UnstableReactNativeAPI::class)
 class MainApplication : Application(), ReactApplication {
