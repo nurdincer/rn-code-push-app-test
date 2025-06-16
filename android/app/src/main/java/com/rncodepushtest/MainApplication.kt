@@ -12,7 +12,10 @@ import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.react.soloader.OpenSourceMergedSoMapping
 import com.facebook.soloader.SoLoader
 import com.microsoft.codepush.react.CodePush
+import com.facebook.react.common.annotations.UnstableReactNativeAPI 
 
+
+@OptIn(UnstableReactNativeAPI::class)  // 2. add this line here
 class MainApplication : Application(), ReactApplication {
 
   override val reactNativeHost: ReactNativeHost =
@@ -35,7 +38,18 @@ class MainApplication : Application(), ReactApplication {
       }
 
   override val reactHost: ReactHost
-    get() = getDefaultReactHost(applicationContext, reactNativeHost)
+        get() = getDefaultReactHost(
+            applicationContext,
+            PackageList(this).packages.apply {
+                // Packages that cannot be autolinked yet can be added manually here, for example:
+                // add(MyReactNativePackage())
+            },
+            jsMainModulePath = "index",
+            jsBundleAssetPath = "index.android.bundle",
+            jsBundleFilePath = CodePush.getJSBundleFile(),
+            isHermesEnabled = BuildConfig.IS_HERMES_ENABLED,
+            useDevSupport = BuildConfig.DEBUG,
+        )
 
   override fun onCreate() {
     super.onCreate()
