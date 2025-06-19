@@ -135,7 +135,7 @@ const FeedScreen: React.FC = () => {
         }
         ListHeaderComponent={
           <View style={styles.header}>
-            <Text style={styles.headerTitle}>Your Feed</Text>
+            <Text style={styles.headerTitle}>Your Feed F</Text>
             <Text style={styles.headerSubtitle}>
               Stay updated with the latest posts
             </Text>
