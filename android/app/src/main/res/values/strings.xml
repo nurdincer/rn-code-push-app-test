@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RNPrepS</string>
+    <string name="app_name">RNPrepP</string>
     <string moduleConfig="true" name="CodePushServerUrl">https://prep-api.appcircle.io/codepush</string>
-    <string moduleConfig="true" name="CodePushDeploymentKey">dk_gpiojLFqxDJ0sPuEbckRrRBzo-8Cf58a0f46-9e45-472a-8752-894d31772855</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">dk__1dGsr6bvcl7Kv78EyN_PrOLLKPIf58a0f46-9e45-472a-8752-894d31772855</string>
 </resources>
