@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RNProdS</string>
+    <string name="app_name">RNProdP</string>
     <string moduleConfig="true" name="CodePushServerUrl">https://api.appcircle.io/codepush</string>
-    <string moduleConfig="true" name="CodePushDeploymentKey">dk_Vk4BaVAbVrFMfs-Cu1yBy-cGvYaZ6792300d-d1da-494c-bdcd-2a840c0418ec</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">dk_rSKZLuk7oJ54SsDvN-LYRID1Ruro6792300d-d1da-494c-bdcd-2a840c0418ec</string>
 </resources>

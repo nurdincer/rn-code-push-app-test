@@ -79,7 +79,7 @@ android {
 
     namespace "com.rncodepushtest"
     defaultConfig {
-        applicationId "com.rncodepushtest.prod.staging"
+        applicationId "com.rncodepushtest.prod.production"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
