@@ -279,8 +279,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nur.rncodepushtest.prod.production";
-				PRODUCT_NAME = RNProdP;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nur.rncodepushtest.prep.staging";
+				PRODUCT_NAME = RNPrepStaging;
 				SWIFT_OBJC_BRIDGING_HEADER = CodePushExt.m;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -309,8 +309,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nur.rncodepushtest.prod.production";
-				PRODUCT_NAME = RNProdP;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nur.rncodepushtest.prep.staging";
+				PRODUCT_NAME = RNPrepStaging;
 				SWIFT_OBJC_BRIDGING_HEADER = CodePushExt.m;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
