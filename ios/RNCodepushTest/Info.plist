@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>RNSHStaging</string>
+	<string>RNSHProd</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -23,7 +23,7 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CodePushDeploymentKey</key>
-	<string>dk_eVjkDcHM75xQM5ZAWHycx3M3VKA99baa2474-c8ff-452d-adb8-0f03852eab61</string>
+	<string>dk_xAUd_M75V_m-UR9BBPNWTYGNa29M9baa2474-c8ff-452d-adb8-0f03852eab61</string>
 	<key>CodePushServerURL</key>
 	<string>https://codepush.self.appcircle.io</string>
 	<key>LSRequiresIPhoneOS</key>
