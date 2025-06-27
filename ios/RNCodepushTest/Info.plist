@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>RNPrepProduction</string>
+	<string>RNSHStaging</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -23,9 +23,9 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CodePushDeploymentKey</key>
-	<string>dk_4879zOSgEqok9SJYVOHhPjPX2dOMf58a0f46-9e45-472a-8752-894d31772855</string>
+	<string>dk_eVjkDcHM75xQM5ZAWHycx3M3VKA99baa2474-c8ff-452d-adb8-0f03852eab61</string>
 	<key>CodePushServerURL</key>
-	<string>https://prep-api.appcircle.io/codepush</string>
+	<string>https://codepush.self.appcircle.io</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
