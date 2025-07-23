@@ -12,7 +12,7 @@
     "pod-install-old": "cd ios && bundle exec pod deintegrate && RCT_NEW_ARCH_ENABLED=0 bundle exec pod install"
   },
   "dependencies": {
-    "@appcircle/react-native-code-push": "0.0.2-alpha.3",
+    "@appcircle/react-native-code-push": "0.0.3",
     "@react-navigation/bottom-tabs": "^6.5.14",
     "@react-navigation/native": "^6.1.12",
     "@react-navigation/native-stack": "^6.9.20",

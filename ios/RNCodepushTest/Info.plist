@@ -23,7 +23,7 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CodePushDeploymentKey</key>
-	<string>dk_q91WNbEcWZ4hBj8UgI7C8TtHQpPq6792300d-d1da-494c-bdcd-2a840c0418ec</string>
+	<string>dk_mY3_zSx-C7UhooVql1EO2B6tFJGb6792300d-d1da-494c-bdcd-2a840c0418ec</string>
 	<key>CodePushServerURL</key>
 	<string>https://api.appcircle.io/codepush</string>
 	<key>LSRequiresIPhoneOS</key>
