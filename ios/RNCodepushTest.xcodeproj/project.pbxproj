@@ -265,7 +265,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 8U2Z24R99J;
+				DEVELOPMENT_TEAM = R582ZC4DTD;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = RNCodepushTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
@@ -279,11 +279,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.nur.rncodepushtest;
-=======
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
->>>>>>> parent of 0dc854c (changed team id and bundle id)
 				PRODUCT_NAME = RNCodepushTest;
 				SWIFT_OBJC_BRIDGING_HEADER = CodePushExt.m;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -300,7 +296,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 8U2Z24R99J;
+				DEVELOPMENT_TEAM = R582ZC4DTD;
 				INFOPLIST_FILE = RNCodepushTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -313,11 +309,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.nur.rncodepushtest;
-=======
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
->>>>>>> parent of 0dc854c (changed team id and bundle id)
 				PRODUCT_NAME = RNCodepushTest;
 				SWIFT_OBJC_BRIDGING_HEADER = CodePushExt.m;
 				SWIFT_VERSION = 5.0;
