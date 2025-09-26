@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { SafeAreaView, StatusBar, StyleSheet, LogBox, Modal, View, ActivityIndicator, Text, Alert } from 'react-native';
-import CodePush from '@appcircle/react-native-code-push';
+import CodePush from "react-native-code-push";
 import Navigation from './src/navigation';
 import { colors } from './src/theme/colors';
 import Snackbar from './src/components/common/snackbar';
