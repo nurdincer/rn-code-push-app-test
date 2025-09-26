@@ -23,7 +23,7 @@ target 'RNCodepushTest' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-   pod 'CodePush', :path => '../node_modules/@appcircle/react-native-code-push'
+   pod 'CodePush', :path => '../node_modules/react-native-code-push'
 
   post_install do |installer|
     # https://github.com/facebook/react-native/blob/main/packages/react-native/scripts/react_native_pods.rb#L197-L202

@@ -15,7 +15,7 @@ import Button from '../components/buttons/Button';
 import Card from '../components/cards/Card';
 import { analyticsService } from '../utils/analytics';
 import { version as currentVersion } from '../../package.json';
-import CodePush from '@appcircle/react-native-code-push';
+import CodePush from "react-native-code-push";
 import Snackbar from '../components/common/snackbar';
 import { featureFlagsService } from '../utils/featureFlags';
 import { ActivityIndicator, Modal } from 'react-native';

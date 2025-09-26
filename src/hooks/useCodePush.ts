@@ -1,6 +1,6 @@
 import {useEffect, useState} from 'react';
 import {AppState, AppStateStatus} from 'react-native';
-import CodePush from '@appcircle/react-native-code-push';
+import CodePush from "react-native-code-push";
 
 export const useCodePush = () => {
   const [isUpdateDownloaded, setUpdateDownloaded] = useState(false);
