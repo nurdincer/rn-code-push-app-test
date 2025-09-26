@@ -279,7 +279,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nur.rntest.microsoftsdk";
 				PRODUCT_NAME = RNCodepushTest;
 				SWIFT_OBJC_BRIDGING_HEADER = CodePushExt.m;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -309,7 +309,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nur.rntest.microsoftsdk";
 				PRODUCT_NAME = RNCodepushTest;
 				SWIFT_OBJC_BRIDGING_HEADER = CodePushExt.m;
 				SWIFT_VERSION = 5.0;
